@@ -1,0 +1,12 @@
+.box {
+   @media (max-width: $tablet-l) {
+     text-align: center;
+     width: 200px;
+     height: 300px;
+     background-color: #0E8784;
+     border-radius: 10px;
+     margin-left: auto; 
+     margin-right: auto;
+     margin: 25px; 
+   }
+}

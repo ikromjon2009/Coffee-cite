@@ -1,0 +1,9 @@
+.btn {
+  @media (max-width: $tablet-l) {
+    background-color: #0E8784;
+    width: 220px;
+    height: 60px;
+    border: none;
+    border-radius: 5px;
+  }
+}

@@ -1,0 +1,14 @@
+.span {
+  @media (max-width: $tablet-l) {
+    height: 500px;
+    width: 200px;
+    text-align: center;
+  }
+}
+
+.seri {
+  @media (max-width: $tablet-l) {
+    color: #83888F;
+    text-align: center;
+  }
+}

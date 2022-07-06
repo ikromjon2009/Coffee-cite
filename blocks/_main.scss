@@ -1,0 +1,13 @@
+.main {
+  @media (max-width: $tablet-l) {
+    width: 280px;
+    height: 50px;
+  }
+}
+
+.main__item--01 {
+  @media (max-width: $tablet-l) {
+    text-align: center;
+    margin-top: 20px;
+  }
+}
